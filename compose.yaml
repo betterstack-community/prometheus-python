@@ -2,7 +2,7 @@ services:
   app:
     build:
       context: .
-    container_name: app
+    container_name: flask-demo
     environment:
       PORT: ${PORT}
     env_file:

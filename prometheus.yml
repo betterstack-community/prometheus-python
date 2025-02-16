@@ -5,4 +5,4 @@ scrape_configs:
   - job_name: flask-app
     static_configs:
       - targets:
-          - app:8000
+          - flask-demo:8000
