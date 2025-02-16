@@ -1,25 +1,16 @@
-# Title of the project
+# Python Monitoring with Prometheus
 
-Description of the project.
-
-**Tutorial**: [Link to corresponding BetterStack tutorial]()
-
-![Screenshot or GIF of the application in action](screenshot.png)
+**Tutorial**:
+[Python Monitoring with Prometheus](https://betterstack.com/community/guides/monitoring/prometheus-python-metrics/)
 
 ## 🟢 Prerequisites
 
-A list of requirements and package versions that the reader needs to build and
-run the project.
-
-- The first thing.
-- The second thing.
-
-## 📦 Getting started
-
-A brief guide to setting up the project.
-
-- Do the first thing.
-- Do the next thing.
+- Prior experience with Python and Flask, along with
+  [a recent version of Python installed](https://www.python.org/downloads/).
+- Familiarity with [Docker](https://www.docker.com/) and
+  [Docker Compose](https://betterstack.com/community/guides/scaling-docker/docker-compose-getting-started/).
+- Basic understanding of
+  [how Prometheus works](https://betterstack.com/community/guides/monitoring/prometheus/).
 
 ## ⚖ License
 
